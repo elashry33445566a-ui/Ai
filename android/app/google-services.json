@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "355914069881",
+    "project_id": "nutriclinic-e1b00",
+    "storage_bucket": "nutriclinic-e1b00.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355914069881:android:e44f8190a49c39355da1a8",
+        "android_client_info": {
+          "package_name": "com.nutriclinic.ai_nutrition_clinic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3U4YzY_uuM_dDcD3PJox6TN6iSpV2Enk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
